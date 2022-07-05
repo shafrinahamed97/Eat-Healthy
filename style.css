@@ -6,6 +6,8 @@ body {
     font-family: 'Poppins', sans-serif;
     font-family: 'The Nautigal', cursive;
 
+
+
 }
 
 h1 {
@@ -17,7 +19,7 @@ h1 {
     color: blueviolet
 }
 
-section {
+.flexible-container {
     display: flex;
 }
 
@@ -44,4 +46,8 @@ section {
 .top-banner {
     background-image: url(images/shapes/7.png);
     background-repeat: no-repeat;
+}
+
+.silver {
+    color: blue;
 }
